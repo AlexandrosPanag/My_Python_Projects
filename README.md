@@ -10,4 +10,4 @@ Often, programmers fall in love with Python because of the increased productivit
 
 SOURCE : https://www.python.org/doc/essays/blurb/
 
-Meterial Used : https://mathesis.cup.gr/courses/course-v1:ComputerScience+CS1.1+21D/course/
+Meterial Used : https://mathesis.cup.gr/courses/course-v1:ComputerScience+CS1.1+21D/course/ & https://www.sololearn.com/learning/1073
