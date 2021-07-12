@@ -9,7 +9,7 @@ type(name) #we ask the type of the value (it will return string)
 name #we ask what we have stored inside the name variable
 
 z=2.5E2 #we declare the value z=2.5 *100 =250.0
-z #we ask what we have stored inside the z variable
+#we ask what we have stored inside the z variable
 
 #acceptable variable format in python
 #a12345=5 is acceptable
