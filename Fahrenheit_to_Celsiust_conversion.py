@@ -1,4 +1,4 @@
-#Celsius to Fahrenheit conversion
+#Fahrenheit to Celsius conversion
 
 #F = C *9/5 +32
 #C = F - 32 / 1.8
