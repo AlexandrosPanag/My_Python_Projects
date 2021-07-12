@@ -22,3 +22,12 @@ A basic explanation of declaration and the variable type
 Arithmetic Operations In Python
 ---
 Intermediate level mathematical operations in python & examples of how mathematical operations work and how we can print them
+
+Celsius to Fahrenheit conversion
+---
+A basic program using user input that can make Celsius to Fahrenheit 
+
+
+Fahrenheit to Celsius conversion
+---
+A basic program using user input that can make Fahrenheit to Celcius 
