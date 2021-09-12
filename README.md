@@ -36,3 +36,9 @@ A basic program using user input that can make Fahrenheit to Celcius
 String Input
 ---
 We print & receive a user-input string
+
+
+Walrus Operator
+---
+
+Walrus Operator ":=" allows you to assign values to variables within an expression including variables that do not yet exit 
