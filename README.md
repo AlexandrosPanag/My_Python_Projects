@@ -61,3 +61,9 @@ Elif Statements
 ---
 
 The elif (short for else if) statement is a shortcut to use when chaining if and else statements making the code shorter and easier to be understood. the same code from "if else statements" can be written using the Elif statement
+
+
+Boolean Operator AND OR NOT
+---
+
+Python's boolean logic operators are AND , OR & NOT they are used to make more complicated programs
