@@ -54,3 +54,10 @@ If_Else Statements
 ---
 
 Basic format of how we can use if & else statements in Python 
+
+
+
+Elif Statements
+---
+
+The elif (short for else if) statement is a shortcut to use when chaining if and else statements making the code shorter and easier to be understood. the same code from "if else statements" can be written using the Elif statement
