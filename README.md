@@ -42,3 +42,9 @@ Walrus Operator
 ---
 
 Walrus Operator ":=" allows you to assign values to variables within an expression including variables that do not yet exit 
+
+
+Boolean Operator
+---
+
+There are two Boolean values : True & False. They can be created by comparing values , for instance by using the equal operator ==.
