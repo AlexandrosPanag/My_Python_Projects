@@ -48,3 +48,9 @@ Boolean Operator
 ---
 
 There are two Boolean values : True & False. They can be created by comparing values , for instance by using the equal operator ==.
+
+
+If_Else Statements
+---
+
+Basic format of how we can use if & else statements in Python 
