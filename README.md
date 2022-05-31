@@ -73,3 +73,10 @@ Neat String Commands
 ---
 
 A few neat string commands in order to alter the string formatting
+
+
+
+Basic User Input Calculator
+---
+
+A program that does basic arithmetic operations between two user input-given numbers
