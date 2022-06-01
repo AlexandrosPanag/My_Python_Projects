@@ -109,3 +109,12 @@ Dictionary_Adv
 ---
 
 A more advanced dictionary example of how we can utilize alter or delete elements in our dictionairy
+
+
+Sets_Exanmple
+---
+
+Lists and tuples are standard Python data types that store values in a sequence. Sets are another standard Python data type that also store values. The major difference is that sets, unlike lists or tuples, cannot have multiple occurrences of the same element and store unordered values.
+SOURCE: https://www.datacamp.com/tutorial/sets-in-python
+
+This is a basic example of how we can use sets
