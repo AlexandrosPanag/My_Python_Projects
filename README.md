@@ -124,3 +124,9 @@ Calculating A Mathematical Function
 ---
 
 This is a basic example of how we can calculate a mathematical function in python
+
+
+Dictionary Contact Example
+---
+
+This is a basic dictionary example that can illustrate how we can add phone contacts in a dictionary given from a user and then sort them out in an alphabetical order 
