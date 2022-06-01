@@ -94,3 +94,9 @@ Lists - Part Two
 ---
 
 A few useful list commands like sort, reverse in order to rearrange our elements and sort them out
+
+
+Dictionary
+-----
+
+A basic contact dictinary example that contains a key element and a value that can or can't be altered
