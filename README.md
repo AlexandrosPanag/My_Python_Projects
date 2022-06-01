@@ -80,3 +80,11 @@ Basic User Input Calculator
 ---
 
 A program that does basic arithmetic operations between two user input-given numbers
+
+
+
+
+Lists
+---
+
+This is a basic illustration of how we can use lists and a few useful list commands in order to append, extend , remove and pop out elements from our list
