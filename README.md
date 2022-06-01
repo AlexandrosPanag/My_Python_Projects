@@ -118,3 +118,9 @@ Lists and tuples are standard Python data types that store values in a sequence.
 SOURCE: https://www.datacamp.com/tutorial/sets-in-python
 
 This is a basic example of how we can use sets
+
+
+Calculating A Mathematical Function
+---
+
+This is a basic example of how we can calculate a mathematical function in python
