@@ -97,6 +97,15 @@ A few useful list commands like sort, reverse in order to rearrange our elements
 
 
 Dictionary
------
+---
+Dictionaries can be contained in lists and vice versa. But what's the difference between lists and dictionaries? A list is an ordered sequence of objects, whereas dictionaries are unordered sets. However, the main difference is that items in dictionaries are accessed via keys and not via their position.
 
-A basic contact dictinary example that contains a key element and a value that can or can't be altered
+Source : https://python-course.eu/python-tutorial/dictionaries.php#:~:text=Dictionaries%20can%20be%20contained%20in,and%20not%20via%20their%20position.
+
+A basic contact dictionary example that contains a key element and a value that can or can't be altered
+
+
+Dictionary_Adv
+---
+
+A more advanced dictionary example of how we can utilize alter or delete elements in our dictionairy
