@@ -103,3 +103,9 @@ While Loop Defense Programming
 ---
 
 A method to prevent the user from giving a value that we don't want for our program (in this case a double digit number), if the user doesn't give a specific value (again, in this case a double digit number) then the program will fail to progress further
+
+
+While Multiple Input Choice
+---
+
+A program that checks multiple inputs to check whether or not a condition has been met. If a condition has been met, then the program will end, otherwise it will continue to run forever
