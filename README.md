@@ -33,10 +33,6 @@ Fahrenheit to Celsius conversion
 A basic program using user input that can make Fahrenheit to Celcius 
 
 
-String Input
----
-We print & receive a user-input string
-
 
 Walrus Operator
 ---
