@@ -18,3 +18,10 @@ User Input String
 ---
 
 A basic user input method that we can turn a given value into a string
+
+
+
+Neat String Commands
+---
+
+A few neat string commands in order to alter the string formatting
