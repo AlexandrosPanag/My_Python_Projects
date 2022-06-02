@@ -19,4 +19,4 @@ This exercise is using a dictionary (song written Words As Weapons by Korn) , th
 EX04 - Interest Calculation
 ---
 
-Write a program that will calculate for a year salary how many years it will take if your income receives an interest (ie it will take you 333334  years , if you have a deposit of 100$ and the interest is 3% 
+Write a program that will calculate for a year salary and have an output of how many years it will take if your income receives an interest (ie it will take you 333334  years , if you have a deposit of 100$ and the interest is 3% 
