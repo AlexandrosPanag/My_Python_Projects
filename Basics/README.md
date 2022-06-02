@@ -65,20 +65,6 @@ A program that does basic arithmetic operations between two user input-given num
 
 
 
-
-Lists
----
-
-This is a basic illustration of how we can use lists and a few useful list commands in order to append, extend , remove and pop out elements from our list
-
-
-Lists - Part Two
----
-
-A few useful list commands like sort, reverse in order to rearrange our elements and sort them out
-
-
-
 Sets_Exanmple
 ---
 
