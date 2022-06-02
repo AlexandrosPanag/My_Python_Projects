@@ -14,4 +14,4 @@ for i in sorted(dd):
 
 print("\nSorted order by dictionary element order: \n")
 for i in sorted(dd,key = dd.get):
-    print(i,'->',dd[i])
+    print(i,'->',dd[i]) #printing the dictionary elements sorted by the value in order
