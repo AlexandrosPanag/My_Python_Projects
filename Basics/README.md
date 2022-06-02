@@ -92,3 +92,8 @@ For I in Range
 ---
 
 This is an example of how we can use the for i in range command properly differently and at the same time, get different results
+
+Eternal While User Input
+---
+
+This is an example of a program, that takes user input and then checks if the user gave a specific value or not, if the user didn't give a specific value, then the program will continue to run eternally
