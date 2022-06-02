@@ -97,3 +97,9 @@ Eternal While User Input
 ---
 
 This is an example of a program, that takes user input and then checks if the user gave a specific value or not, if the user didn't give a specific value, then the program will continue to run eternally
+
+
+While Loop Defense Programming
+---
+
+A method to prevent the user from giving a value that we don't want for our program (in this case a double digit number), if the user doesn't give a specific value (again, in this case a double digit number) then the program will fail to progress further
