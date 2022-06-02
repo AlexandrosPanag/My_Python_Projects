@@ -56,11 +56,6 @@ Boolean Operator AND OR NOT
 Python's boolean logic operators are AND , OR & NOT they are used to make more complicated programs
 
 
-Neat String Commands
----
-
-A few neat string commands in order to alter the string formatting
-
 
 
 Basic User Input Calculator
