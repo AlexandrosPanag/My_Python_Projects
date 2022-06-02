@@ -109,3 +109,8 @@ While Multiple Input Choice
 ---
 
 A program that checks multiple inputs to check whether or not a condition has been met. If a condition has been met, then the program will end, otherwise it will continue to run forever
+
+Find Primes until Its Filled
+---
+
+A program that can find the prime numbers until our array size is filled
