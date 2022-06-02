@@ -1,4 +1,4 @@
-dd = {1:20, 5:10, 3:15}
+dd = {1:20, 5:10, 3:15} #creating a dictionary
 
 print("\nOnly the dictionary keys are printed: \n")
 for i in dd: #printing only the keys of the dictionary
