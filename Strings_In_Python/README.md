@@ -25,3 +25,9 @@ Neat String Commands
 ---
 
 A few neat string commands in order to alter the string formatting
+
+
+Specific Message Character Counter
+---
+
+ An example of how we can create a message and count each different character that was used specifically
