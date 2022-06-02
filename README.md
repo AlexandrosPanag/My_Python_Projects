@@ -130,3 +130,16 @@ Dictionary Contact Example
 ---
 
 This is a basic dictionary example that can illustrate how we can add phone contacts in a dictionary given from a user and then sort them out in an alphabetical order 
+
+Dictionary Sorting
+---
+This is an example of how we can sort out our dictionary by key order, by element order and output them properly
+
+
+Quadratic Equation
+---
+
+This is a basic illustration of how we can fully utilize quadratic equations and solve them using python
+
+
+
