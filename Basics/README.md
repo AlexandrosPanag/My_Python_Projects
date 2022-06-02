@@ -88,3 +88,7 @@ This is a basic illustration of how we can fully utilize quadratic equations and
 
 
 
+For I in Range
+---
+
+This is an example of how we can use the for i in range command properly differently and at the same time, get different results
