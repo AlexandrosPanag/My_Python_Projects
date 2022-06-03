@@ -18,3 +18,8 @@ List Comprehension
 ---
 
 A basic program that implenets a basic list comprehension, it's job is to find a number in a specific range of numbers [0..30] that can be divided by 2 and at the same time 3
+
+List Comprehension Finding Unicode
+---
+
+We use list comprehension in order to find the unicode character of each letter in a written text
