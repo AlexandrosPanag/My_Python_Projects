@@ -12,3 +12,9 @@ For I In Range Lists
 ---
 
 This is an illustration of how we can print an element on the list
+
+
+List Comprehension
+---
+
+A basic program that implenets a basic list comprehension, it's job is to find a number in a specific range of numbers [0..30] that can be divided by 2 and at the same time 3
