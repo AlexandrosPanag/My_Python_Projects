@@ -23,3 +23,9 @@ List Comprehension Finding Unicode
 ---
 
 We use list comprehension in order to find the unicode character of each letter in a written text
+
+
+Specific Range Input List
+---
+
+Creating a user based input and then we parse the elements into a list
