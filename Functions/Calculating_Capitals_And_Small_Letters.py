@@ -1,13 +1,10 @@
-def count_capital_small(s):
-    small_counter = 0
-    capital_counter = 0
-    for c in s:
-        if c.isalpha():
-            if c.islower() == c:
-                small_counter+=1
-            else:
-                capital_counter+=1
-        return capital_counter, small_counter
+def unique_elements(mylist):
+    #check if the list is valid
+    if not type(mylist) is list:
+        return []
+    mylist_new=[]
+    for i in mylist:
+        if i not in mylist_new: mylist_new.append(i)
+    return mylist_new
 
-st = input("phrase")
-print(count_capital_small())
+print(unique_elements([1,2,3,4,2,3,4,2,3,4]))
