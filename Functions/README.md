@@ -8,3 +8,9 @@ Check If It Is A Number Function
 ---
 
 A function that checks in the function if it's a number or not
+
+
+Calculating The Volume and Area of a sphere
+---
+
+A program that can calculate the volume and area of a sphere or if the user types stop then the program will stop
