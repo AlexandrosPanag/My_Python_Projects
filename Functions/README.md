@@ -20,3 +20,9 @@ Calculating Capitals And Small Letters - List
 ---
 
 A function that takes a list of elements full of duplicates and only outputs the unique elements
+
+
+Scrop Strings Align And Join
+---
+
+This is an example of how we can create a text alignment, format the text, check for spaces and then format it better
