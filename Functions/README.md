@@ -15,7 +15,14 @@ Calculating The Volume and Area of a sphere
 
 A program that can calculate the volume and area of a sphere or if the user types stop then the program will stop
 
+
 Calculating Capitals and Small Letters
 ---
 
 A function that can return the small & cpital letter counters that the user can give
+
+
+Calculating Capitals And Small Letters - List
+---
+
+A function that takes a list of elements full of duplicates and only outputs the unique elements
