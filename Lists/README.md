@@ -53,3 +53,8 @@ List Slice Step
 ---
 
 A list slice example with +2 step
+
+List Negative Step
+---
+
+A list slice example with a -2 step
