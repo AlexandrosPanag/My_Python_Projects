@@ -114,3 +114,8 @@ Find Primes until Its Filled
 ---
 
 A program that can find the prime numbers until our array size is filled
+
+Random Number Generation
+---
+
+A program that generates 10 random numbers from 0 to 100 set as range
