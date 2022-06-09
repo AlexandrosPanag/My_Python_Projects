@@ -29,3 +29,9 @@ Specific Range Input List
 ---
 
 Creating a user based input and then we parse the elements into a list
+
+
+Lists Slice
+---
+
+A very simple example of how we can slice a list's elements
