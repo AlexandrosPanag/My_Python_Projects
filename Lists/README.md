@@ -47,3 +47,9 @@ Lists Slice III
 ---
 
 A third example with a different kind of slicing command [x:]
+
+
+List Slice Step
+---
+
+A list slice example with +2 step
