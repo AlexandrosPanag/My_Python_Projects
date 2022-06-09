@@ -34,10 +34,16 @@ Creating a user based input and then we parse the elements into a list
 Lists Slice
 ---
 
-A very simple example of how we can slice a list's elements
+A very simple example of how we can slice a list's elements [x:y]
 
 
 Lists Slice II
 ---
 
-A second example with a different kind of list slicing
+A second example with a different kind of list slicing [:x]
+
+
+Lists Slice III
+---
+
+A third example with a different kind of slicing command [x:]
