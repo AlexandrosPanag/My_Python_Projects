@@ -35,3 +35,9 @@ Lists Slice
 ---
 
 A very simple example of how we can slice a list's elements
+
+
+Lists Slice II
+---
+
+A second example with a different kind of list slicing
