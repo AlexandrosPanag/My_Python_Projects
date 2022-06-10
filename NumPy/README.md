@@ -27,3 +27,9 @@ NumPy Array Attributes II
 -----
 
 Creating arrays with elements and then outputting them using the NumPy library
+
+
+NumPy Array Filling Zeros Ones Full
+----
+
+A few examples of how we can create & fill an array with zeros, ones or a costum number easily using the NumPy Library
