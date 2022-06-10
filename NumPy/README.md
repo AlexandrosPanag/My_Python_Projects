@@ -45,3 +45,9 @@ NumPy Array Comparison
 ----
 
 Printing the two numpy created arrays and do comparison operations between each array
+
+
+NumPy Universal Functions
+----
+
+A few example commands that we can use with the NumPy library, like adding two arrays elements together or multiplying them
