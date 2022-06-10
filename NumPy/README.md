@@ -17,3 +17,13 @@ NumPy Two Dimensional Array
 -----
 
 A basic example of how we can create a two dimensional array using NumPy
+
+NumPy Array Attributes 
+-----
+
+Before making any array changes, dtype must be found , that the integers use otherwise future programs may or may not work as intended
+
+NumPy Array Attributes II 
+-----
+
+Creating arrays with elements and then outputting them using the NumPy library
