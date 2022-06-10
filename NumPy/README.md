@@ -33,3 +33,9 @@ NumPy Array Filling Zeros Ones Full
 ----
 
 A few examples of how we can create & fill an array with zeros, ones or a costum number easily using the NumPy Library
+
+
+NumPy Array Arange
+----
+
+Using the array command to instantly and easily create an array that suit different requirements / needs
