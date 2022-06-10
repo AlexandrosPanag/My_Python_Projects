@@ -39,3 +39,9 @@ NumPy Array Arange
 ----
 
 Using the array command to instantly and easily create an array that suit different requirements / needs
+
+
+NumPy Array Comparison
+----
+
+Printing the two numpy created arrays and do comparison operations between each array
