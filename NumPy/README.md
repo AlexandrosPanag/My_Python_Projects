@@ -11,3 +11,9 @@ NumPy Introduction
 -----
 
 A very basic introduction to the NumPy Library
+
+
+NumPy Two Dimensional Array
+-----
+
+A basic example of how we can create a two dimensional array using NumPy
