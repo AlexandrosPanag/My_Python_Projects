@@ -14,3 +14,10 @@ OS File Format
 -----
 
 A file format countering program that outputs how many different file format types we contain in a path (for example 3 PDFs, 1 .ini file, 6 .ino files etc etc)
+
+
+OS File Format And Size
+-----
+
+
+A file format countering program that outputs how many different file format types we contain in a path (for example 3 PDFs, 1 .ini file, 6 .ino files etc etc), plus, the total size that they consume on our path location in percentage form
