@@ -8,3 +8,9 @@ OS File Printing Better
 -----
 
 A better implementation of the previous code (OS File Printing) that can discover programs on the user input given path file and then output the total number of files that were discovered
+
+
+OS File Format
+-----
+
+A file format countering program that outputs how many different file format types we contain in a path (for example 3 PDFs, 1 .ini file, 6 .ino files etc etc)
