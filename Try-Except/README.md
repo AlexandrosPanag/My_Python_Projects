@@ -9,3 +9,8 @@ Try Except Division User Input
 ----
 
 A more in depth example of the first Try Except example that catches user input exceptions
+
+Try Except File
+----
+
+try opeing a file and catch any errors that may occur
