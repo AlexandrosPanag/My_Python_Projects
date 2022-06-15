@@ -4,9 +4,7 @@ import re
 with open(r'C:\Users\<Users>\Desktop\ALEX_GITHUB.html', encoding = 'utf-8') as f:
     html = f.read()
 
-#print(html)
-
-email_pattern = r'\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}\b'
+#print(html) in case we want to print the html elements
 
 
 while True:
