@@ -1,3 +1,11 @@
+Regular Expressions
+--------------------------------------
+
+Regular Expressions, also known as “regex” or “regexp”, are used to match strings of text such as particular characters, words, or patterns of characters. It means that we can match and extract any string pattern from the text with the help of regular expressions. I have used two terms, match and extract and both the terms have a slightly different meaning. There may be cases when we want to match a specific pattern but extract a subset of it. For example, we want to extract the names of PhD scholars from a list of names of people in an organization.
+
+
+SOURCE: https://www.analyticsvidhya.com/blog/2021/07/regular-expressions-in-python-a-beginners-guide/#:~:text=Regular%20Expressions%2C%20also%20known%20as,the%20help%20of%20regular%20expressions.
+
 RE_Change_Word
 ----
 
