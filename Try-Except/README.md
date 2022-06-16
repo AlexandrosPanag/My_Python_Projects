@@ -22,3 +22,9 @@ Try Except File
 ----
 
 try opeing a file and catch any errors that may occur
+
+
+Try Except Website
+----
+
+A program that is using try / except in order to check and bypass any errors while trying to connect to a website
