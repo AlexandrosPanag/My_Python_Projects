@@ -28,3 +28,9 @@ Try Except Website
 ----
 
 A program that is using try / except in order to check and bypass any errors while trying to connect to a website
+
+
+Try Except Website Retrieve Information
+----
+
+A program to retrieve information from a website using a try/except check to avoid any errors that may occur
