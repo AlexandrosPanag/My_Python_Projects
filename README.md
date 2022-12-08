@@ -8,7 +8,7 @@ Often, programmers fall in love with Python because of the increased productivit
 ![](https://th.bing.com/th/id/R.6c253b6b4562ea29d1223251d46e767f?rik=oTlwfQZkD0JpjA&pid=ImgRaw)
 
 
-Original source was taken from & can be found here: https://www.python.org/doc/essays/blurb/
+Original article source was taken from & can be found here: https://www.python.org/doc/essays/blurb/
 
 Meterial Used : https://mathesis.cup.gr/courses/course-v1:ComputerScience+CS1.1+21D/course/ & https://www.sololearn.com/learning/1073 & https://www.educative.io/courses/full-speed-python , Python for Programmers: with Big Data and Artificial Intelligence Case Studies by Paul Deitel (Author), Harvey Deitel (Author)
 
