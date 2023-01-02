@@ -1,3 +1,5 @@
+# By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+
 #quadratic equation ax^2+bx+c =0
 #asking from the user a, b ,c inputs
 
