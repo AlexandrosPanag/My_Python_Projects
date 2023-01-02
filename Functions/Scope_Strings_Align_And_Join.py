@@ -1,3 +1,4 @@
+# By Alexandros Panagiotakopoulos - alexandrospanag.github.io
 def align_text(line,width):
     extra_spaces = width - len(line)
     sp = ' '
