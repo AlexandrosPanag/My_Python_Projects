@@ -1,3 +1,5 @@
+# By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+
 nobel_prize_winners = { #creating a dictionary
     (1979, "physics"):["Glashow","Salam","Weinberg"],
     (1962, "chemistry"):["Hodgkin"],
