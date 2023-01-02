@@ -1,3 +1,5 @@
+# By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+
 mybooltr= True  #We declare the mybooltrue equal to True 
 myboolfa= False #We declare the myboolfalse equal to False
 
