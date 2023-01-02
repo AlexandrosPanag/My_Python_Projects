@@ -1,3 +1,5 @@
+# By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+
 y = 5  #we declare y = 5
 type(y) #we ask the type of the value (it will return int)
 
