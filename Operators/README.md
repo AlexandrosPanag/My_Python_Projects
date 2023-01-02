@@ -16,3 +16,9 @@ Boolean Operator
 ---
 
 There are two Boolean values : True & False. They can be created by comparing values , for instance by using the equal operator ==.
+
+
+Boolean Operator AND OR NOT
+---
+
+Python's boolean logic operators are AND , OR & NOT they are used to make more complicated programs
