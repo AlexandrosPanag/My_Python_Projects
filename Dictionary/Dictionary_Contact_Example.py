@@ -1,3 +1,5 @@
+# By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+
 #creating a basic dictionary
 contact = {"James":111333, "Smith":222444}
 
