@@ -1,3 +1,5 @@
+# By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+
 dd = {1:20, 5:10, 3:15} #creating a dictionary
 
 print("\nOnly the dictionary keys are printed: \n")
