@@ -1,3 +1,6 @@
+# By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+
+
 #Celsius to Fahrenheit conversion
 
 #F = C *9/5 +32
