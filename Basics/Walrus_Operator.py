@@ -1,3 +1,4 @@
+# By Alexandros Panagiotakopoulos - alexandrospanag.github.io
 
 print(variable:=input())
 
