@@ -1,3 +1,5 @@
+# By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+
 a=2.0 #we declare a equal to 2
 b=3.0 #we declare b equal to 3
 c=4.5 #we declare c equal to 4.5
