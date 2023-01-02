@@ -1,3 +1,5 @@
+# By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+
 if( 1 == 1) and (2+1 > 3):
     print("The first statement is true/n") #false statement because 1=1 is true & 2+1 > 3 is false == true + false == false
 elif (1 == 1 or 2 == 1): 
