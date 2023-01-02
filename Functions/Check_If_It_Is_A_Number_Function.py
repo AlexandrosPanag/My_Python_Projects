@@ -1,3 +1,4 @@
+# By Alexandros Panagiotakopoulos - alexandrospanag.github.io
 def isnum(n):
 # function that checks if a string is a number
     if not type(n) is str:
