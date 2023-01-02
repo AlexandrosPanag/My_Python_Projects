@@ -1,3 +1,4 @@
+# By Alexandros Panagiotakopoulos - alexandrospanag.github.io
 
 mo = input("Give the amount of money:")
 interest = input("Give the interest per year:")
