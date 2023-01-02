@@ -10,6 +10,6 @@ Often, programmers fall in love with Python because of the increased productivit
 
 Original article source was taken from & can be found here: https://www.python.org/doc/essays/blurb/
 
-The Meterial is based upon : https://mathesis.cup.gr/courses/course-v1:ComputerScience+CS1.1+21D/course/ & https://www.sololearn.com/learning/1073 & https://www.educative.io/courses/full-speed-python , Python for Programmers: with Big Data and Artificial Intelligence Case Studies by Paul Deitel (Author), Harvey Deitel (Author)
+The Meterial is based upon : https://mathesis.cup.gr/courses/course-v1:ComputerScience+CS1.1+21D/course/ & https://www.sololearn.com/learning/1073 & https://www.educative.io/courses/full-speed-python ,https://mathesis.cup.gr/courses/course-v1:ComputerScience+CS1.2+21E/course/, Python for Programmers: with Big Data and Artificial Intelligence Case Studies by Paul Deitel (Author), Harvey Deitel (Author)
 
 
