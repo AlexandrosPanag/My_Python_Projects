@@ -1,3 +1,5 @@
+# By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+
 mystring = "This is a string type message" #creating a string type message
 
 mylist = [] #creating a list
