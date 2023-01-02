@@ -1,3 +1,5 @@
+# By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+
 while True:
     aw=input("Choose one of the following :\n 1 for A,\n 2 for B,\n 3 for Exit: ")
     if aw=="1":
