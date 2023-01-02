@@ -31,11 +31,6 @@ Walrus Operator
 Walrus Operator ":=" allows you to assign values to variables within an expression including variables that do not yet exit 
 
 
-Boolean Operator
----
-
-There are two Boolean values : True & False. They can be created by comparing values , for instance by using the equal operator ==.
-
 
 If_Else Statements
 ---
@@ -48,12 +43,6 @@ Elif Statements
 ---
 
 The elif (short for else if) statement is a shortcut to use when chaining if and else statements making the code shorter and easier to be understood. the same code from "if else statements" can be written using the Elif statement
-
-
-Boolean Operator AND OR NOT
----
-
-Python's boolean logic operators are AND , OR & NOT they are used to make more complicated programs
 
 
 
