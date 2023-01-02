@@ -1,3 +1,5 @@
+# By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+
 #Given the mathematical function 
 
 # y = 5x^3 + 4x^2 - 2x + 8
