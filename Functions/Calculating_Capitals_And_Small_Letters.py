@@ -1,3 +1,5 @@
+# By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+
 def unique_elements(mylist):
     #check if the list is valid
     if not type(mylist) is list:
