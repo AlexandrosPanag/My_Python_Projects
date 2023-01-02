@@ -1,3 +1,5 @@
+# By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+
 #the formula is 800*12 - 43%
 paycheck =0
 monthly_paycheck=800
