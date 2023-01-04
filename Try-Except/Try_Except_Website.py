@@ -1,3 +1,5 @@
+# By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+
 import urllib.request
 import urllib.error
 
