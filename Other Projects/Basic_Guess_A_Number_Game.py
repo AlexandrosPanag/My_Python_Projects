@@ -1,3 +1,5 @@
+# By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+
 list = [1,33,67,89,24,12,124,93]
 userinput = int(input("Guess a number from the list: "))
 for i in list:
