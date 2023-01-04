@@ -1,3 +1,6 @@
+# By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+
+
 myfile = 'myfile.txt'
 
 try:
