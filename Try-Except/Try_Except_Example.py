@@ -1,3 +1,5 @@
+# By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+
 num=" "
 while type(num) is str:
     num = input("Give a number:")
