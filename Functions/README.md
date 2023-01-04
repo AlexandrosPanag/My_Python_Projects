@@ -32,3 +32,8 @@ Calculator Function
 ---
 
 An example of how multiple functions can be used in order to do arithmetic operations and function like a calculator
+
+Infinite Parameters Function
+---
+
+A function example that takes an infinite amount of arguements and keywords in a function and prints them out accordingly
