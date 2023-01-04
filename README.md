@@ -13,3 +13,4 @@ Original article source was taken from & can be found here: https://www.python.o
 The Meterial is based upon : https://mathesis.cup.gr/courses/course-v1:ComputerScience+CS1.1+21D/course/ & https://www.sololearn.com/learning/1073 & https://www.educative.io/courses/full-speed-python ,https://mathesis.cup.gr/courses/course-v1:ComputerScience+CS1.2+21E/course/, Python for Programmers: with Big Data and Artificial Intelligence Case Studies by Paul Deitel (Author), Harvey Deitel (Author)
 
 
+Most of the programs were compiled on different development environments/ IDE(s): https://code.visualstudio.com/,https://thonny.org/, https://www.jetbrains.com/pycharm/download/, https://www.programiz.com/python-programming/online-compiler/.
