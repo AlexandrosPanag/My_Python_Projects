@@ -18,3 +18,6 @@ IMAGE SOURCE: https://miro.medium.com/max/742/1*WBYUz6Lh2Z21DQnEk-MWFQ.pngTime c
 Big O Notation is a tool used to describe the time complexity of algorithms. It calculates the time taken to run an algorithm as the input grows. In other words, it calculates the worst-case time complexity of an algorithm. 
 
 Big O Notation in Data Structure describes the upper bound of an algorithm's runtime. It calculates the time and amount of memory needed to execute the algorithm for an input value. 
+
+
+O(1) Constant Time > O(logn) Logarithmic Time > O(n) Linear Time > O(n^2) Polynomial Time > O(2^n) Exponential Time
