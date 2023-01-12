@@ -21,5 +21,7 @@ Big O Notation in Data Structure describes the upper bound of an algorithm's run
 
 
 ----
+Helpful cheat sheet:
+
 O(1) Constant Time > O(logn) Logarithmic Time > O(n) Linear Time > O(n^2) Polynomial Time > O(2^n) Exponential Time
 ----
