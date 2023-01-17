@@ -1,3 +1,5 @@
+# By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+
 input_string = input('Enter elements of a list separated by space: ')
 print("\n")
 user_list = input_string.split()
