@@ -58,3 +58,9 @@ List Negative Step
 ---
 
 A list slice example with a -2 step
+
+
+Unique Element List
+---
+
+A list that has only unique elements (not duplicates)
