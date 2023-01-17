@@ -21,3 +21,8 @@ This is a basic dictionary example that can illustrate how we can add phone cont
 Dictionary Sorting
 ---
 This is an example of how we can sort out our dictionary by key order, by element order and output them properly
+
+Dictionary Phone User Input
+---
+
+This is an example of how a user can create a dictionary and search an element through the created dictionary by taking a user input. (the phone number can find the registered phone user) 
