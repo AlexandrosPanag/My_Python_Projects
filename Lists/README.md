@@ -64,3 +64,11 @@ Unique Element List
 ---
 
 A list that has only unique elements (not duplicates)
+
+
+
+Unique Element List User Input
+---
+
+A list that has only unique elements (not duplicates) from a user input
+
