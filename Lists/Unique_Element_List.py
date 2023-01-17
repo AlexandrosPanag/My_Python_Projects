@@ -1,3 +1,5 @@
+# By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+
 l=[1,2,3,4,5,2,3,4,7,9,5]
 l1=[]
 for i in l:
