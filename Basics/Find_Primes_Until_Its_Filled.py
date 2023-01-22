@@ -1,3 +1,5 @@
+# By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+
 primes = []
 
 num = 2
