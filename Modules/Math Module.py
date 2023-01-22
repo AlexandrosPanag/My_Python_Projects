@@ -1,3 +1,5 @@
+# By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+
 import math
 
 print(x = math.sqrt(16)) #square root of 16
