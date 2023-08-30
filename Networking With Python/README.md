@@ -1,4 +1,4 @@
 Networking with Python
 ------
 
-Python useful programs that can be used in application networking!
+Python useful programs that can be used with networking when it comes to applications.
