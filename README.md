@@ -33,10 +33,12 @@ The Meterial is based upon but altered: https://www.freecodecamp.org/learn/scien
 
 All of the programs were compiled on different development environments/ IDE(s): 
 
-https://code.visualstudio.com/,       
+| Compiler/IDE | Download Link |
+| --------------- | ---------------- |
+| VS CODE | [Download Link](https://code.visualstudio.com/) |
+| Thonny | [Download Link](https://thonny.org/) |
+| PyCharm | [Download Link](https://www.jetbrains.com/pycharm/download/) |       
+| Programmiz Online Compiler | [Download Link](https://www.programiz.com/python-programming/online-compiler/) |       
 
-https://thonny.org/, 
 
-https://www.jetbrains.com/pycharm/download/, 
 
-https://www.programiz.com/python-programming/online-compiler/.
