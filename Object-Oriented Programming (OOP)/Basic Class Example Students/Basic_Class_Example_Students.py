@@ -1,3 +1,5 @@
+#By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+
 #self refers to each object that will be created
 class Student:
 	#creating a class that contains students that are studying
