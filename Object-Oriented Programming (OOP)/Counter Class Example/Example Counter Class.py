@@ -1,3 +1,5 @@
+#By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+
 class ExampleCounterClass:
     x = 2
     def counter(self):
