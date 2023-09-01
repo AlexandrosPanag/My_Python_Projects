@@ -14,11 +14,16 @@ This work is licensed under a
 
 Credits: [@alexandrospanag](https://github.com/alexandrospanag)
 
+Certifications:
+
 ✅ LinkedIn Skill Assessment badge
 https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος/
 
 ✅ Scientific Computing with Python
 https://www.freecodecamp.org/certification/AlexandrosPanag/scientific-computing-with-python-v7
+
+About Python
+----------
 
 
 What is Python? Executive Summary
