@@ -38,7 +38,9 @@ All of the programs were compiled on different development environments/ IDE(s):
 | VS CODE | [Download Link](https://code.visualstudio.com/) |
 | Thonny | [Download Link](https://thonny.org/) |
 | PyCharm | [Download Link](https://www.jetbrains.com/pycharm/download/) |       
-| Programmiz Online Compiler | [Download Link](https://www.programiz.com/python-programming/online-compiler/) |       
+| Programmiz Online Compiler | [Website](https://www.programiz.com/python-programming/online-compiler/) |       
+| Replit.com | [Website](replit.com) |       
+
 
 
 
