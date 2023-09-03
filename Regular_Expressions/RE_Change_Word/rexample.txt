@@ -1,1 +1,0 @@
-This is a basic example of how regular expressions work
