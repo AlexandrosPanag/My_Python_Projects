@@ -1,9 +1,29 @@
 # My Python Projects
 
-<img src="https://img.shields.io/bower/l/mi">
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 
 Credits: [@alexandrospanag](https://github.com/alexandrospanag)
+
+Certifications:
+
+✅ LinkedIn Skill Assessment badge
+https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος/
+
+✅ Scientific Computing with Python
+https://www.freecodecamp.org/certification/AlexandrosPanag/scientific-computing-with-python-v7
+
+About Python
+----------
 
 
 What is Python? Executive Summary
@@ -16,15 +36,15 @@ Often, programmers fall in love with Python because of the increased productivit
 
 Original article source was taken from & can be found here: https://www.python.org/doc/essays/blurb/
 
-The Meterial is based upon : https://mathesis.cup.gr/courses/course-v1:ComputerScience+CS1.1+21D/course/ & https://www.sololearn.com/learning/1073 & https://www.educative.io/courses/full-speed-python ,https://mathesis.cup.gr/courses/course-v1:ComputerScience+CS1.2+21E/course/, Python for Programmers: with Big Data and Artificial Intelligence Case Studies by Paul Deitel (Author), Harvey Deitel (Author)
+The Meterial is based upon but altered: https://www.freecodecamp.org/learn/scientific-computing-with-python/, https://mathesis.cup.gr/courses/course-v1:ComputerScience+CS1.1+21D/course/ & https://www.sololearn.com/learning/1073 & https://www.educative.io/courses/full-speed-python ,https://mathesis.cup.gr/courses/course-v1:ComputerScience+CS1.2+21E/course/, Python for Programmers: with Big Data and Artificial Intelligence Case Studies by Paul Deitel (Author), Harvey Deitel (Author)
 
 
 All of the programs were compiled on different development environments/ IDE(s): 
 
-https://code.visualstudio.com/,       
-
-https://thonny.org/, 
-
-https://www.jetbrains.com/pycharm/download/, 
-
-https://www.programiz.com/python-programming/online-compiler/.
+| Compiler/IDE | Download Link |
+| --------------- | ---------------- |
+| VS CODE | [Download Link](https://code.visualstudio.com/) |
+| Thonny | [Download Link](https://thonny.org/) |
+| PyCharm | [Download Link](https://www.jetbrains.com/pycharm/download/) |       
+| Programmiz Online Compiler | [Website](https://www.programiz.com/python-programming/online-compiler/) |       
+| Replit.com | [Website](replit.com) |       
