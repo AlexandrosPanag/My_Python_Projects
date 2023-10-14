@@ -1,7 +1,9 @@
 # By Alexandros Panagiotakopoulos - alexandrospanag.github.io
 
-x = input("Give a number")
-y = input("Give a second number")
+print("Give a number")  
+x = int(input())
+print("Give a second number") 
+y = int(input())
 
 print(x+y)
 print(x-y)
