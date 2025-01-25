@@ -1,4 +1,4 @@
 Algorithm Implementations
 ----
 
-Example of how Algorithms can be implemented in Python.
+Example of how certain algorithms can be implemented in Python.
