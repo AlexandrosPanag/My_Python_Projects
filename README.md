@@ -46,9 +46,6 @@ Python is an **interpreted, object-oriented, high-level programming language** w
 - **🔍 Introspective Debugging**: Built-in debugging capabilities written in Python itself
 - **🌍 Cross-Platform**: Available on all major platforms with extensive standard library
 
-<div align="center">
-<img src="https://th.bing.com/th/id/R.6c253b6b4562ea29d1223251d46e767f?rik=oTlwfQZkD0JpjA&pid=ImgRaw" alt="Python Programming" width="400"/>
-</div>
 
 ---
 
