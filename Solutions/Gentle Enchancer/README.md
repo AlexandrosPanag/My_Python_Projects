@@ -1,17 +1,5 @@
 # 🎨 Gentle Enhancer
 
-<div align="center">
-
-[![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)](https://www.python.org/downloads/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-Latest-green.svg)](https://opencv.org/)
-[![AI-Powered](https://img.shields.io/badge/AI-Powered-purple.svg)](https://en.wikipedia.org/wiki/Artificial_intelligence)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-*Advanced AI-powered image enhancement specifically designed for anime character artwork*  
-*Improves pixel density and reduces blurriness while maintaining exact original dimensions*
-
-</div>
-
 ---
 
 ## ✨ Features
