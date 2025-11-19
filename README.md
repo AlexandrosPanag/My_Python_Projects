@@ -11,8 +11,6 @@
 
 ## 🐍 About Python
 
-### Executive Summary
-
 Python is an **interpreted, object-oriented, high-level programming language** with dynamic semantics. Its comprehensive built-in data structures, combined with dynamic typing and binding, make it exceptionally well-suited for:
 
 - **Rapid Application Development (RAD)**
