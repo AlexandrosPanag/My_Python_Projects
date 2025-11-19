@@ -1,20 +1,11 @@
 # Python Development Portfolio
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/license-CC%20BY%204.0-orange)
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)](https://www.python.org/downloads/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος/)
+## 👤 Author
+**Alexandros Panagiotakopoulos**
 
-*A comprehensive collection of Python projects demonstrating advanced programming concepts, data structures, and real-world applications*
-
-</div>
-
----
-
-## 👨‍💻 About the Developer
-
-**Alexandros Panagiotakopoulos** | [@alexandrospanag](https://github.com/alexandrospanag)
 
 ### 🏆 Professional Certifications
 
