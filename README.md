@@ -7,13 +7,6 @@
 **Alexandros Panagiotakopoulos**
 
 
-### 🏆 Professional Certifications
-
-- **LinkedIn Skill Assessment** - Python Programming
-  - [View Certification](https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος/)
-- **freeCodeCamp** - Scientific Computing with Python
-  - [View Certification](https://www.freecodecamp.org/certification/AlexandrosPanag/scientific-computing-with-python-v7)
-
 ---
 
 ## 🐍 About Python
