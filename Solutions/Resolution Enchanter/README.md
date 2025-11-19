@@ -1,6 +1,11 @@
 # 🎨 Image Resolution Doubler
 
 A Python utility that doubles the resolution of images using pixel-perfect scaling while preserving the original visual appearance. Perfect for upscaling pixel art, game assets, icons, and any images where maintaining crisp edges is essential.
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/license-CC%20BY%204.0-orange)
+
+## 👤 Author
+**Alexandros Panagiotakopoulos**
 
 ## ✨ Features
 
