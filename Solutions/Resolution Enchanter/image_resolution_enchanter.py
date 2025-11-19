@@ -1,3 +1,7 @@
+#Copyright (c) 2025 Alexandros Panagiotakopoulos
+#All Rights Reserved
+#DATE: 01/10/2025
+#alexandrospanag.github.io
 #!/usr/bin/env python3
 # For Windows: python image_resolution_enchanter.py
 """
@@ -142,3 +146,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
