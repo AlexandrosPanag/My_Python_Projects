@@ -1,7 +1,6 @@
 # 🎨 Transparent Color Replacement Script Documentation
 
 ![Python](https://img.shields.io/badge/Python-3.6+-blue)
-![Version](https://img.shields.io/badge/version-1.0.0-green)
 ![License](https://img.shields.io/badge/license-CC%20BY%204.0-orange)
 
 ## 👤 Author
@@ -15,7 +14,6 @@
 
 **Copyright © 2025 Alexandros Panagiotakopoulos. All Rights Reserved.**
 
-**Version:** 1.0.0  
 **Compatibility:** Python 3.6+, PIL/Pillow  
 **Copyright:** Alexandros Panagiotakopoulos. All Rights Reserved Ⓒ  
 **License:** Creative Commons Attribution 4.0 International License (CC BY-4.0)
