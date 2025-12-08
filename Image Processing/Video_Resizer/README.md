@@ -5,8 +5,6 @@
 
 ## 👤 Author
 **Alexandros Panagiotakopoulos**
-- **Date:** December 8, 2025
-
 ---
 
 ## 📄 License
