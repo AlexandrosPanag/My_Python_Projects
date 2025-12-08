@@ -1,4 +1,4 @@
-# 🎬 Video Resizer and Zoom Tool Documentation
+# 🎬 Video Resizer Documentation
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![License](https://img.shields.io/badge/license-CC%20BY%204.0-orange)
