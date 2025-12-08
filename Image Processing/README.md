@@ -3,11 +3,11 @@
 A collection of Python utilities for image and video manipulation tasks.
 This repository contains various tools for processing images and videos.
 
-##👤 Author
+## 👤 Author
 
 **Alexandros Panagiotakopoulos**
 
-##📄 License
+## 📄 License
 
 
 **Copyright © 2025 Alexandros Panagiotakopoulos. All Rights Reserved.**
