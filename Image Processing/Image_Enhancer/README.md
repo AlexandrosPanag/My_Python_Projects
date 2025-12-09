@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.6+-blue)
 ![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-orange)
-![Version](https://img.shields.io/badge/version-2.0.0-green)
+
 
 ## 👤 Author
 **Alexandros Panagiotakopoulos**  
@@ -238,7 +238,7 @@ SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes
 
 ## 📝 Changelog
 
-### **Version 2.0.0** (December 9, 2025) - Major Enhancement Update
+### **Version 2.0.0** (December 9, 2025) - Major Enhancement Update on the original Gentle Enhancer 
 
 #### ✨ New Features
 - **Multi-pass noise reduction** - Dual bilateral filtering for better smoothing
@@ -264,17 +264,6 @@ SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes
 
 ---
 
-### **Version 1.0.0** (October 1, 2025) - Initial Release
-
-#### Features
-- Gentle noise reduction with bilateral filter
-- Basic unsharp masking
-- PIL UnsharpMask sharpening (120% strength)
-- Contrast enhancement (+5%)
-- High-quality LANCZOS resampling
-- Automatic output filename generation
-
----
 
 ## 📄 License
 
