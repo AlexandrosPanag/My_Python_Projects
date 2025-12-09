@@ -6,6 +6,7 @@
 #winget install ffmpeg
 # example usage:
 #python video_resizer.py input.webm output.webm 1.42 0.3
+#python video_resizer.py input.webm output.webm 1.42 0.1 --scale 0.8
 
 #!/usr/bin/env python3
 """
