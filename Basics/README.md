@@ -1,7 +1,6 @@
 Basics
 ------------------------------------------------
 
-A folder with all the basic learning difficulty projects that i made
-
+A folder containing a cheat-sheet for very basic Python implementations.
 
 
