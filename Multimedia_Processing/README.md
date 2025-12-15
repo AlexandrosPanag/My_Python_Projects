@@ -1,6 +1,6 @@
-# Image Processing
+# Multimedia Processing
 
-A collection of Python utilities for image and video manipulation tasks.
+A collection of Python utilities for multimedia manipulation tasks.
 This repository contains various tools for processing images and videos.
 
 ## 👤 Author
