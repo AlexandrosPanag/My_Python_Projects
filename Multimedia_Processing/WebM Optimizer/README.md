@@ -2,7 +2,11 @@
 
 A powerful Python-based tool for enhancing WebM video quality using modern VP9 encoding techniques. This optimizer improves video clarity, reduces blurriness, and enhances color correction while maintaining original dimensions.
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/license-CC%20BY%204.0-orange)
+
+## 👤 Author
+**Alexandros Panagiotakopoulos**
 
 ## Features
 
