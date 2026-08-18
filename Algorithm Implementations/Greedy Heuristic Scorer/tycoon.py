@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
+
 ## Created by Alexandros Panagiotakopoulos
 # alexandrospanag.github.io
 # CC BY-SA 4.0
 # Date: 18-08-2026
+
 """
 P5X Tycoon - Full game engine + optimal strategy advisor
 Rules: Persona 5 The Phantom X version of Daifugo (大富豪)
